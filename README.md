@@ -57,10 +57,6 @@
 <br>
 <br>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=WajdAlmansor&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajdAlmansor&theme=react&layout=compact" />
-</p>
 
 <p align= "center">
   <a href="https://cdn3.emoji.gg/emojis/9259-pawbye.gif"><img src="https://cdn3.emoji.gg/emojis/9259-pawbye.gif" width="128px" height="128px" alt="HelloKittyByeBye"></a>
