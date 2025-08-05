@@ -50,6 +50,7 @@
   <img src="https://skills.syvixor.com/api/icons?i=csharp" width="48" alt="C# Icon">
   <img src="https://skills.syvixor.com/api/icons?i=git" width="48" alt="Git Icon">
   <img src="https://skills.syvixor.com/api/icons?i=firebase" width="48" alt="Firebase Icon">
+  <img src="https://skills.syvixor.com/api/icons?i=swiftui" width="48" alt="SwiftUI Icon">
 </p>
 
 
