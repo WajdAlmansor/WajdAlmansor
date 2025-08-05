@@ -7,6 +7,7 @@
   Currently expanding my expertise beyond iOS to explore new platforms and technologies.
 </h5>
 
+***
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -18,30 +19,23 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> 
-  <a href="https://www.w3.org/java/" target="_blank"> 
- <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
- </a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-  <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="40px" height="40px" alt="TypeScript"></a>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/csharp" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
- 
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=swift" width="48" alt="Swift Icon">
+  <img src="https://skills.syvixor.com/api/icons?i=java" width="48" alt="Java Icon">
+  <img src="https://skills.syvixor.com/api/icons?i=javascript" width="48" alt="JS Icon">
+  <img src="https://skills.syvixor.com/api/icons?i=csharp" width="48" alt="C# Icon">
+  <img src="https://skills.syvixor.com/api/icons?i=git" width="48" alt="Git Icon">
+  <img src="https://skills.syvixor.com/api/icons?i=firebase" width="48" alt="Firebase Icon">
+</p>
+
+
+
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=WajdAlmansor&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajdAlmansor&theme=react&layout=compact" />
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf&theme=react&layout=compact" />
-</p>
-
-<p align= "center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+  <a href="https://cdn3.emoji.gg/emojis/9259-pawbye.gif"><img src="https://cdn3.emoji.gg/emojis/9259-pawbye.gif" width="128px" height="128px" alt="HelloKittyByeBye"></a>
 </p>
