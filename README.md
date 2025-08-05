@@ -11,9 +11,8 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajd-abdullah-382b071a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajdmanssur@gmail.com)
   
 </div>
 
