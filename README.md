@@ -1,8 +1,2 @@
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=WajdAlmansor&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="WajdAlmansor Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WajdAlmansor&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/WajdAlmansor/github-readme-stats)
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
