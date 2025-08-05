@@ -1,5 +1,12 @@
-<h1 align="center"> Hi! I'm Wajd! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
-<h3 align="center">A passionate App Developer from Saudi Arabia</h3>
+<h1 align="center" style="margin-bottom: 0;">
+  Hi! I'm Wajd! 
+  <img src="https://cdn3.emoji.gg/emojis/55926-butterfly.gif" width="40px" height="90px" alt="Moon">
+</h1>
+
+<h3 align="center" style="margin-top: 4px;">
+  A passionate App Developer from Saudi Arabia
+</h3>
+
 
 <h5 align="center">
   Full-stack app developer driven by a passion for crafting meaningful, real-world solutions.<br>
@@ -7,7 +14,21 @@
   Currently expanding my expertise beyond iOS to explore new platforms and technologies.
 </h5>
 
-***
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+<img src="https://cdn3.emoji.gg/emojis/77776-smallpinkflower.gif" width="40px" height="90px" alt="Moon">
+<img src="https://cdn3.emoji.gg/emojis/77776-smallpinkflower.gif" width="40px" height="90px" alt="Moon">
+<img src="https://cdn3.emoji.gg/emojis/77776-smallpinkflower.gif" width="40px" height="90px" alt="Moon">
+<img src="https://cdn3.emoji.gg/emojis/77776-smallpinkflower.gif" width="40px" height="90px" alt="Moon">
+<img src="https://cdn3.emoji.gg/emojis/77776-smallpinkflower.gif" width="40px" height="90px" alt="Moon">
+<img src="https://cdn3.emoji.gg/emojis/77776-smallpinkflower.gif" width="40px" height="90px" alt="Moon">
+  </p>
+  
+<br>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -17,6 +38,9 @@
   
 </div>
 
+<br>
+<br>
+  
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -29,7 +53,8 @@
 </p>
 
 
-
+<br>
+<br>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=WajdAlmansor&theme=react&show_icons=true&include_all_commits=true" />
